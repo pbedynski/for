@@ -41,7 +41,11 @@
 	<build>
 		<finalName>${project.artifactId}</finalName>
 		<sourceDirectory>src</sourceDirectory>
-
+		<resources>
+			<resource>
+				<directory>gen</directory>
+			</resource>
+		</resources>
 		<pluginManagement>
 			<plugins>
 				<plugin>
