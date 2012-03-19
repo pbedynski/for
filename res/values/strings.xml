@@ -4,4 +4,16 @@
     <string name="app_name">FOR</string>
     <string name="app_name_long">Civil Development Forum</string>
 
+    <!-- categories names -->
+    <string name="mission">Our Mission</string>
+    <string name="goals">Our Goals</string>
+    <string name="for_warns_recommends">FOR recommends/warns</string>
+    <string name="for_analysis">FOR analysis</string>
+    <string name="current_projects">Current Projects</string>
+    <string name="completed_projects">Completed Projects</string>
+    
+    <!-- tabs names -->
+    <string name="publications">Publications</string>
+    <string name="about">About</string>
+    <string name="projects">Projects</string>
 </resources>

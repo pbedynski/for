@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="project_categories">
+        <item>@string/current_projects</item>
+        <item>@string/completed_projects</item>
+    </array>
+    <array name="publications_categories">
+        <item>@string/for_warns_recommends</item>
+        <item>@string/for_analysis</item>
+    </array> 
+</resources>
